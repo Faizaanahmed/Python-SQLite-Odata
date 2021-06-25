@@ -48,8 +48,8 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 ## Show your support
 
-You can show your support - <p><a href="https://www.buymeacoffee.com/faizaan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="faizaan" /></a></p><br><br>
-Give a ⭐️ if this project helped you!
+<p><a href="https://www.buymeacoffee.com/faizaan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="faizaan" /></a></p><br><br>
+
 
 
 ## 📝 License
