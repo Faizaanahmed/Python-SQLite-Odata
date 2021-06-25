@@ -6,7 +6,7 @@
   <a href="https://github.com/kefranabg/readme-md-generator#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
+  <a href="https://github.com/TheBroda/Python-SQLite-Odata/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE" target="_blank">
@@ -20,8 +20,7 @@
 
 ## Prerequisites
 
-- npm >=5.5.0
-- node >=9.3.0
+- python >=3.7
 
 ## Install
 
@@ -33,12 +32,6 @@ pip install -r 'requirments.txt'
 
 ```sh
 python main.py
-```
-
-## Run tests
-
-```sh
-npm run test
 ```
 
 ## Author
@@ -55,12 +48,10 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 ## Show your support
 
+You can show your support - <p><a href="https://www.buymeacoffee.com/faizaan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="faizaan" /></a></p><br><br>
 Give a ⭐️ if this project helped you!
+
 
 ## 📝 License
 
 Copyright © 2021 [Faizaan Ahmed](https://github.com/TheBroda).<br />
-This project is [GPL--3.0](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
