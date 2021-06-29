@@ -1,8 +1,7 @@
 <h1 align="center">Welcome to Python-SQLite-Odata 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
-  <img src="https://img.shields.io/badge/npm-%3E%3D5.5.0-blue.svg" />
-  <img src="https://img.shields.io/badge/node-%3E%3D9.3.0-blue.svg" />
+  <img src="https://img.shields.io/badge/python-%3E%3D3.7.0-blue.svg" />
   <a href="https://github.com/kefranabg/readme-md-generator#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
@@ -12,6 +11,7 @@
   <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE" target="_blank">
     <img alt="License: GPL--3.0" src="https://img.shields.io/github/license/TheBroda/Python-SQLite-Odata" />
   </a>
+<img alt="In Progress" src="https://img.shields.io/badge/In Progress-yes-yellow.svg" />
 </p>
 
 > This project uses python runtime to create a oData service from a SQLite file.
@@ -38,19 +38,28 @@ python main.py
 
 👤 **Faizaan Ahmed**
 
-* Website: https://www.linkedin.com/in/faizaanahmed-sapbtp/
-* Github: [@TheBroda](https://github.com/TheBroda)
-* LinkedIn: [@Faizaan Ahmed](https://linkedin.com/in/Faizaan Ahmed)
+* Github: [@Faizaanahmed](https://github.com/FaizaanAhmed)
+* LinkedIn: https://www.linkedin.com/in/faizaanahmed-sapbtp/
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/TheBroda/Python-SQLite-Odata/issues). You can also take a look at the [contributing guide](https://github.com/kefranabg/readme-md-generator/blob/master/CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/TheBroda/Python-SQLite-Odata/issues). 
+
+[comment]: <> (You can also take a look at the [contributing guide]&#40;https://github.com/kefranabg/readme-md-generator/blob/master/CONTRIBUTING.md&#41;.)
 
 ## Show your support
 
 <p><a href="https://www.buymeacoffee.com/faizaan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="faizaan" /></a></p><br><br>
 
+## ✅ Work In Progress
+ 
+* GET method in JSON
 
+## 🚧 Work In Progress
+ 
+* POST , PUT, PATCH, DELETE methods.
+* JSON and XML format
+* Filters
 
 ## 📝 License
 
