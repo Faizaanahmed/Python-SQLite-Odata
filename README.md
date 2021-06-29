@@ -47,11 +47,8 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 [comment]: <> (You can also take a look at the [contributing guide]&#40;https://github.com/kefranabg/readme-md-generator/blob/master/CONTRIBUTING.md&#41;.)
 
-## Show your support
 
-<p><a href="https://www.buymeacoffee.com/faizaan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="faizaan" /></a></p><br><br>
-
-## ✅ Work In Progress
+## ✅ Completed
  
 * GET method in JSON
 
@@ -64,3 +61,7 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 ## 📝 License
 
 Copyright © 2021 [Faizaan Ahmed](https://github.com/TheBroda).<br />
+
+## Show your support
+
+<p><a href="https://www.buymeacoffee.com/faizaan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="faizaan" /></a></p><br><br>
