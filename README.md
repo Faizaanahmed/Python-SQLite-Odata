@@ -16,7 +16,7 @@
 
 > This project uses python runtime to create a oData service from a SQLite file.
 
-### 🏠 [Homepage](https://github.com/TheBroda/Python-SQLite-Odata)
+### 🏠 [Homepage](https://github.com/Faizaanahmed/Python-SQLite-Odata)
 
 ## Prerequisites
 
