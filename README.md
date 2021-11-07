@@ -43,7 +43,7 @@ python main.py
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/TheBroda/Python-SQLite-Odata/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/FaizaanAhmed/Python-SQLite-Odata/issues). 
 
 [comment]: <> (You can also take a look at the [contributing guide]&#40;https://github.com/kefranabg/readme-md-generator/blob/master/CONTRIBUTING.md&#41;.)
 
@@ -60,7 +60,7 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 ## 📝 License
 
-Copyright © 2021 [Faizaan Ahmed](https://github.com/TheBroda).<br />
+Copyright © 2021 [Faizaan Ahmed](https://github.com/Faizaanahmed/).<br />
 
 ## Show your support
 
