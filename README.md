@@ -58,6 +58,14 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 * JSON and XML format
 * Filters
 
+### Environment Setup
+To easily set up the development environment, a Windows batch script is provided. This script will automatically locate your Conda installation, create a new environment named pythonOdata, and install the necessary dependencies from the requirements.txt file.
+
+# Using the Batch Script
+Save the script as setup_pythonOdata.bat in the same directory as your requirements.txt file.
+Double-click on the setup_pythonOdata.bat file to run it. The script will handle the environment setup process.
+Author
+
 ## 📝 License
 
 Copyright © 2021 [Faizaan Ahmed](https://github.com/Faizaanahmed/).<br />
