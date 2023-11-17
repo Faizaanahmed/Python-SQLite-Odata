@@ -1,61 +1,70 @@
-# Contributing to Readme Markdown Generator
 
-👍🎉 First off, thanks for taking the time to contribute! 🎉👍
+<h1 align="center">Welcome to Python-SQLite-Odata</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+  <img src="https://img.shields.io/badge/python-%3E%3D3.7.0-blue.svg" />
+  <a href="https://github.com/kefranabg/readme-md-generator#readme" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://github.com/TheBroda/Python-SQLite-Odata/graphs/commit-activity" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  </a>
+  <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE" target="_blank">
+    <img alt="License: GPL--3.0" src="https://img.shields.io/github/license/TheBroda/Python-SQLite-Odata" />
+  </a>
+<img alt="In Progress" src="https://img.shields.io/badge/In Progress-yes-yellow.svg" />
+</p>
 
-When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
-Please note we have a [code of conduct](https://github.com/kefranabg/readme-md-generator/blob/master/.github/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
+> This project uses python runtime to create an OData service from a SQLite file.
 
-## Table of Contents
+### 🏠 [Homepage](https://github.com/Faizaanahmed/Python-SQLite-Odata)
 
-- [Setting Up the project locally](#setting-up-the-project-locally)
-- [Submitting a Pull Request](#submitting-a-pull-request)
+## Prerequisites
 
-## Setting Up the project locally
+- python >=3.7
 
-To install the project you need to have `node` and `npm`
-
-1.  [Fork](https://help.github.com/articles/fork-a-repo/) the project, clone
-    your fork:
-
-    ```sh
-    # Clone your fork
-    git clone https://github.com/<your-username>/readme-md-generator.git
-
-    # Navigate to the newly cloned directory
-    cd readme-md-generator
-    ```
-
-2.  Your environment needs to be running `node` version >= 9.3.0 and `npm` version >= 5.5.0.
-
-3.  from the root of the project: `npm` to install all dependencies
-
-    - make sure you have latest `npm` version
-
-4.  from the root of the project: `npm start` to run the cli.
-
-> Tip: Keep your `master` branch pointing at the original repository and make
-> pull requests from branches on your fork. To do this, run:
->
-> ```sh
-> git remote add upstream https://github.com/kefranabg/readme-md-generator.git
-> git fetch upstream
-> git branch --set-upstream-to=upstream/master master
-> ```
->
-> This will add the original repository as a "remote" called "upstream," then
-> fetch the git information from that remote, then set your local `master`
-> branch to use the upstream master branch whenever you run `git pull`. Then you
-> can make all of your pull request branches based on this `master` branch.
-> Whenever you want to update your version of `master`, do a regular `git pull`.
-
-## Submitting a Pull Request
-
-Please go through existing issues and pull requests to check if somebody else is already working on it.
-
-Also, make sure to run the tests and lint the code before you commit your
-changes.
+## Install
 
 ```sh
-npm run test
-npm run lint
+pip install -r 'requirements.txt'
 ```
+
+## Usage
+
+```sh
+python main.py
+```
+
+## Features
+
+### ✅ Completed
+
+- GET method in JSON and XML format
+- POST method for adding records
+- PATCH method for updating records
+- DELETE method for removing records
+- CRUD operations for SQLite database interaction
+
+### 🚧 Work In Progress
+
+- Advanced filtering options in GET requests
+- Additional enhancements for robust error handling and data validation
+
+## Author
+
+👤 **Faizaan Ahmed**
+
+* Github: [@Faizaanahmed](https://github.com/FaizaanAhmed)
+* LinkedIn: https://www.linkedin.com/in/faizaanahmed-sapbtp/
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/FaizaanAhmed/Python-SQLite-Odata/issues).
+
+## 📝 License
+
+Copyright © 2023 [Faizaan Ahmed](https://github.com/Faizaanahmed).
+
+## Show your support
+
+<p><a href="https://www.buymeacoffee.com/faizaan"> <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a></p>

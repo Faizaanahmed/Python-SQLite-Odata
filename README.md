@@ -65,3 +65,10 @@ Copyright © 2021 [Faizaan Ahmed](https://github.com/Faizaanahmed/).<br />
 ## Show your support
 
 <p><a href="https://www.buymeacoffee.com/faizaan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="faizaan" /></a></p><br><br>
+
+
+## Updates
+### Output Format Feature
+- The API now supports output in both JSON and XML formats.
+- Use the `$format=json` query parameter to receive responses in JSON.
+- If `$format` is not specified or set to any value other than `json`, responses will be in XML format.
